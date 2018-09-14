@@ -1,0 +1,26 @@
+{
+  "name": "calculatornodejs",
+  "version": "1.0.0",
+  "description": "calculadora con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvI11/nodejs.git"
+  },
+  "keywords": [
+    "ivi11"
+  ],
+  "author": "ivi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvI11/nodejs/issues"
+  },
+  "homepage": "https://github.com/IvI11/nodejs#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
